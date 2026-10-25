@@ -1,0 +1,7 @@
+{
+  "name": "slidespark-studio",
+  "version": "1.1.0",
+  "private": true,
+  "description": "Estúdio interno de apresentações com IA e exportação PPTX/PDF",
+  "engines": {"node": ">=20"}
+}
